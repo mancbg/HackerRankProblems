@@ -1,2 +1,2 @@
 # HackerRankProblems
-Problems solved from https://www.hackerrank.com/manasigund22
+Problems solved from hackerrank: https://www.hackerrank.com/manasigund22
